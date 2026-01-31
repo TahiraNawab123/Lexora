@@ -1,1 +1,1 @@
-# Lexora
+# LeXora
